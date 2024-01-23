@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ferddyfauzanR
 - 👀 I’m interested in javascript language
-- 🌱 I’m currently learning ExpressJS and ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ExpressJs and ReactJs
+
 
 <!---
 ferddyfauzanR/ferddyfauzanR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
