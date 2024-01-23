@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferddyfauzanR
 - 👀 I’m interested in javascript language
-- 🌱 I’m currently learning ExpressJs and ReactJs
+- 🌱 I’m currently learning Laravel, ExpressJs and ReactJs
 
 
 <!---
