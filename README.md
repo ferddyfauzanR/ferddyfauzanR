@@ -12,6 +12,7 @@
 * [![Express][Express.com]][Express-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Tailwind][TailwindCss]][Tailwind-url]
 
 ### Language
 
@@ -50,6 +51,8 @@ You can click the Preview link to take a look at your changes.
 [Bootstrap-url]: https://getbootstrap.com
 [Express.com]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white
 [Express-url]: https://www.express.com/
+[TailwindCss]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
 
 [Html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [Css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
